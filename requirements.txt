@@ -1,0 +1,13 @@
+flask
+flask-cors
+opencv-python
+mediapipe
+numpy
+pandas
+matplotlib
+seaborn
+pyaudio
+deepface
+dlib
+firebase-admin
+python-dotenv
